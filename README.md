@@ -1,4 +1,9 @@
-Hi 👋 My name is Adham Osman ============================  Aspiring Software Developer ---------------------------  My first full stack project was for my bachelor thesis were i made a designed a website that acts a platform for the different parties in the seafood supply chain. The frontend was designed using ReactJs and the backend was coded in solidity to create smart contracts that can handle transactions between users, licensing to allow users with a fisherman license and lastly a contract that handles adding seafood items to the blockchain.  * 🌍  I'm based in Oman, Muscat * 🖥️  See my portfolio at [My Portfolio](http://adhamosman.vercel.app/) * ✉️  You can contact me at [adham4603@gmail.com](mailto:adham4603@gmail.com) * 🧠  I'm learning React Js * ⚡  Penguins are the best! no 🧢
+Hi 👋 My name is Adham Osman ============================  Aspiring Software Developer ---------------------------  My first full stack project was for my bachelor thesis were i made a designed a website that acts a platform for the different parties in the seafood supply chain. The frontend was designed using ReactJs and the backend was coded in solidity to create smart contracts that can handle transactions between users, licensing to allow users with a fisherman license and lastly a contract that handles adding seafood items to the blockchain.  
+* 🌍  I'm based in Oman, Muscat
+* * 🖥️  See my portfolio at [My Portfolio](http://adhamosman.vercel.app/)
+* ✉️  You can contact me at [adham4603@gmail.com](mailto:adham4603@gmail.com)
+* 🧠  I'm learning React Js
+* ⚡  Penguins are the best! no 🧢
 
 ### Skills  
 
