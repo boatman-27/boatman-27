@@ -8,7 +8,9 @@ My first full stack project was for my bachelor thesis were i made a designed a 
 - 🖥️  See my portfolio at [My Website](http://https://adhamosman.vercel.app)
 - ✉️  You can contact me at [adham4603@gmail.com](mailto:adham4603@gmail.com)
 - 🧠  I'm learning Python
-- ⚡  I love penguins### Skills
+- ⚡  I love penguins 🐧
+  
+### Skills
 
 <p align="left">
     <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
